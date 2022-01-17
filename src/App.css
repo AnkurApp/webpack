@@ -1,0 +1,23 @@
+.contentContainer {
+	width: 70%;
+	height: 86vh;
+	margin: 4rem auto 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+.webpackContainer {
+	width: 60%;
+	text-align: center;
+}
+
+.webpackContainer h1 {
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+}
+
+.webpackContainer img {
+	display: block;
+	height: 300px;
+	margin: 3rem auto;
+}
